@@ -2,7 +2,7 @@
   "name": "script-test",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://github.com/fd0r/script-test/",
+"homepage": "https://fd0r.github.io/script-test/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.1",
